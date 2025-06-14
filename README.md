@@ -20,7 +20,7 @@ I'm a **Junior Web Developer** passionate about building full-stack web applicat
 
 ---
 
-## 🎣 Fun Fact
+## 💪 Outside of Code
 Outside of coding, I enjoy **lifting** and going on deep dives into **tech and personal growth**.
 
 ---
