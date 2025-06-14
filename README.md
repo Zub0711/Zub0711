@@ -27,5 +27,5 @@ Outside of coding, I enjoy **lifting** and going on deep dives into **tech and p
 
 ## 📫 Let’s Connect
 You can reach me on:
-- [LinkedIn]((https://www.linkedin.com/in/zubair-hoosain-kumandan-a310502a9/) 
+- LinkedIn (https://www.linkedin.com/in/zubair-hoosain-kumandan-a310502a9/) 
 - Email (zubairhoosain@hotmail.com) 
